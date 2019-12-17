@@ -88,7 +88,7 @@ for (let i = 0; i<graduates.length; i++){
 
 console.log(universities);
 
-universities.sort();
+universitiesSorted.sort();
 
 console.log(universitiesSorted);
 

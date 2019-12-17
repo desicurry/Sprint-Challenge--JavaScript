@@ -65,7 +65,7 @@ class CubeMaker extends CuboidMaker {
   } 
 } 
 
-const cube = new CuboidMaker ({
+const cube = new CubeMaker ({
   length: 4,
   width: 4,
   height: 4,
